@@ -1,0 +1,12 @@
+body {
+background-color: rgb(10, 9, 9);
+color: rgb(122, 206, 178);
+    font-size: 33px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+h1 {
+    font-family: 'Fjalla One', Georgia, sans-serif;
+    color: rgb(55, 112, 102);
+    font-size: 73px;
+}
